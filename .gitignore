@@ -1,0 +1,5 @@
+#Keys
+.DS_Store
+
+#Business secrets
+secrets.txt
